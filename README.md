@@ -19,5 +19,5 @@
 	    <!--[if (it IE 9)&(!IEMobile)]-->
 	<script src="js/vendor/respond.min.js"></script>
 		<!--[endif]-->
-```
+	```
 
